@@ -1,1 +1,25 @@
-4
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("../images/skelatal_weave.png");
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+#logo-img {
+	border: 4px dashed #d8e3e4;
+	margin-top: 15px;
+}
+
+
+#main{
+	height: 1500px;
+	background-image: -webkit-linear-gradient(#ffffff, #ffecfa);
+	border: 4px dashed #d8e3e4;
+}
